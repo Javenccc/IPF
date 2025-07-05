@@ -1,0 +1,518 @@
+Channel,Type,Segment,Segment_detail,TL Sales,TL Sales YA,Time Series
+Channel1,Type1,Segment6,Segment6_sub1,16313718,14235023,YTD
+Channel1,Type1,Segment6,Segment6_sub2,20503947,20885451,YTD
+Channel1,Type1,Segment3,Segment3_sub1,65037159,66422480,YTD
+Channel1,Type1,Segment7,Segment7_sub1,74858506,75134574,YTD
+Channel1,Type1,Segment8,Segment8_sub5,334164,213573,YTD
+Channel1,Type1,Segment8,Segment8_sub6,6933418,6105240,YTD
+Channel1,Type2,Segment1,Segment1_sub1,141,97,YTD
+Channel1,Type2,Segment5,Segment5_sub1,18,0,YTD
+Channel1,Type1,Segment4,Segment4_sub1,10121390,11186996,YTD
+Channel1,Type1,Segment1,Segment1_sub1,26046152,27344304,YTD
+Channel1,Type1,Segment5,Segment5_sub1,2503191,3060683,YTD
+Channel1,Type1,Segment2,Segment2_sub1,2656560,3884759,YTD
+Channel1,Type1,Segment4,Segment4_sub1,36383610,35287072,YTD
+Channel1,Type1,Segment1,Segment1_sub1,24075432,25079648,YTD
+Channel1,Type1,Segment5,Segment5_sub1,43711637,43722511,YTD
+Channel1,Type1,Segment2,Segment2_sub1,8059366,6965184,YTD
+Channel1,Type3,Segment4,Segment4_sub1,5418,5460,YTD
+Channel1,Type3,Segment1,Segment1_sub1,141682,103896,YTD
+Channel1,Type3,Segment5,Segment5_sub1,8045,4135,YTD
+Channel1,Type3,Segment2,Segment2_sub1,1169,910,YTD
+Channel1,Type1,Segment4,Segment4_sub1,25048453,25269783,YTD
+Channel1,Type1,Segment1,Segment1_sub1,36415935,35200640,YTD
+Channel1,Type1,Segment5,Segment5_sub1,40998251,39565984,YTD
+Channel1,Type1,Segment2,Segment2_sub1,18176219,19390149,YTD
+Channel1,Type1,Segment6,Segment6_sub2,183499,207564,YTD
+Channel1,Type1,Segment3,Segment3_sub1,2081718,1864195,YTD
+Channel1,Type1,Segment4,Segment4_sub1,5489753,5647259,YTD
+Channel1,Type1,Segment1,Segment1_sub1,14514694,16097810,YTD
+Channel1,Type1,Segment5,Segment5_sub1,2812344,2645192,YTD
+Channel1,Type1,Segment2,Segment2_sub1,5812287,6188781,YTD
+Channel1,Type1,Segment4,Segment4_sub1,2134019,2442516,YTD
+Channel1,Type1,Segment1,Segment1_sub1,4713651,4872342,YTD
+Channel1,Type1,Segment5,Segment5_sub1,373135,256902,YTD
+Channel1,Type1,Segment2,Segment2_sub1,231503,280678,YTD
+Channel1,Type1,Segment6,Segment6_sub1,10033160,8748711,Last 12
+Channel1,Type1,Segment6,Segment6_sub2,12400644,12646809,Last 12
+Channel1,Type1,Segment3,Segment3_sub1,39663610,40135895,Last 12
+Channel1,Type1,Segment7,Segment7_sub1,44597522,44636753,Last 12
+Channel1,Type1,Segment8,Segment8_sub5,272049,130361,Last 12
+Channel1,Type1,Segment8,Segment8_sub6,4283520,3675726,Last 12
+Channel1,Type2,Segment1,Segment1_sub1,79,44,Last 12
+Channel1,Type2,Segment5,Segment5_sub1,16,0,Last 12
+Channel1,Type1,Segment4,Segment4_sub1,5950004,6365072,Last 12
+Channel1,Type1,Segment1,Segment1_sub1,15471250,15988342,Last 12
+Channel1,Type1,Segment5,Segment5_sub1,1545395,1835769,Last 12
+Channel1,Type1,Segment2,Segment2_sub1,1663896,2302382,Last 12
+Channel1,Type1,Segment4,Segment4_sub1,21476019,20751974,Last 12
+Channel1,Type1,Segment1,Segment1_sub1,14128421,14783485,Last 12
+Channel1,Type1,Segment5,Segment5_sub1,26113540,25912266,Last 12
+Channel1,Type1,Segment2,Segment2_sub1,4932622,4221421,Last 12
+Channel1,Type3,Segment4,Segment4_sub1,2631,3014,Last 12
+Channel1,Type3,Segment1,Segment1_sub1,76812,71942,Last 12
+Channel1,Type3,Segment5,Segment5_sub1,4695,2572,Last 12
+Channel1,Type3,Segment2,Segment2_sub1,537,532,Last 12
+Channel1,Type1,Segment4,Segment4_sub1,14789060,15001292,Last 12
+Channel1,Type1,Segment1,Segment1_sub1,21821072,21130943,Last 12
+Channel1,Type1,Segment5,Segment5_sub1,24625124,23746821,Last 12
+Channel1,Type1,Segment2,Segment2_sub1,10756442,11574065,Last 12
+Channel1,Type1,Segment6,Segment6_sub2,113278,120576,Last 12
+Channel1,Type1,Segment3,Segment3_sub1,1390243,1110378,Last 12
+Channel1,Type1,Segment4,Segment4_sub1,3236513,3312138,Last 12
+Channel1,Type1,Segment1,Segment1_sub1,8517622,9511091,Last 12
+Channel1,Type1,Segment5,Segment5_sub1,1638607,1534406,Last 12
+Channel1,Type1,Segment2,Segment2_sub1,3453492,3630226,Last 12
+Channel1,Type1,Segment4,Segment4_sub1,1217518,1447925,Last 12
+Channel1,Type1,Segment1,Segment1_sub1,2810004,2858249,Last 12
+Channel1,Type1,Segment5,Segment5_sub1,226404,155718,Last 12
+Channel1,Type1,Segment2,Segment2_sub1,135828,164182,Last 12
+Channel1,Type1,Segment6,Segment6_sub1,40501706,35404448,Last 52
+Channel1,Type1,Segment6,Segment6_sub2,55196843,56213705,Last 52
+Channel1,Type1,Segment3,Segment3_sub1,170286541,174606983,Last 52
+Channel1,Type1,Segment7,Segment7_sub1,198226121,195331740,Last 52
+Channel1,Type1,Segment8,Segment8_sub5,640646,530662,Last 52
+Channel1,Type1,Segment8,Segment8_sub6,17581643,15610429,Last 52
+Channel1,Type2,Segment3,Segment3_sub1,0,44,Last 52
+Channel1,Type2,Segment1,Segment1_sub1,194,387,Last 52
+Channel1,Type2,Segment5,Segment5_sub1,18,1134,Last 52
+Channel1,Type1,Segment4,Segment4_sub1,27693582,30661113,Last 52
+Channel1,Type1,Segment1,Segment1_sub1,67801668,71735632,Last 52
+Channel1,Type1,Segment5,Segment5_sub1,7115696,7974793,Last 52
+Channel1,Type1,Segment2,Segment2_sub1,7778140,10141159,Last 52
+Channel1,Type1,Segment4,Segment4_sub1,95548454,93219994,Last 52
+Channel1,Type1,Segment1,Segment1_sub1,64184933,66290232,Last 52
+Channel1,Type1,Segment5,Segment5_sub1,114564390,116176526,Last 52
+Channel1,Type1,Segment2,Segment2_sub1,20329047,18426336,Last 52
+Channel1,Type3,Segment4,Segment4_sub1,20020,14224,Last 52
+Channel1,Type3,Segment1,Segment1_sub1,407363,226143,Last 52
+Channel1,Type3,Segment5,Segment5_sub1,14611,10340,Last 52
+Channel1,Type3,Segment2,Segment2_sub1,3061,2537,Last 52
+Channel1,Type1,Segment4,Segment4_sub1,65722024,66586946,Last 52
+Channel1,Type1,Segment1,Segment1_sub1,93131328,90609821,Last 52
+Channel1,Type1,Segment5,Segment5_sub1,105595654,101720203,Last 52
+Channel1,Type1,Segment2,Segment2_sub1,48736830,52178628,Last 52
+Channel1,Type1,Segment6,Segment6_sub2,478735,571068,Last 52
+Channel1,Type1,Segment3,Segment3_sub1,5024154,5204892,Last 52
+Channel1,Type1,Segment4,Segment4_sub1,14302609,14966629,Last 52
+Channel1,Type1,Segment1,Segment1_sub1,39606661,42594074,Last 52
+Channel1,Type1,Segment5,Segment5_sub1,7133740,7138838,Last 52
+Channel1,Type1,Segment2,Segment2_sub1,15567252,16545712,Last 52
+Channel1,Type1,Segment4,Segment4_sub1,6156182,7264218,Last 52
+Channel1,Type1,Segment1,Segment1_sub1,11976688,12485518,Last 52
+Channel1,Type1,Segment5,Segment5_sub1,872521,686342,Last 52
+Channel1,Type1,Segment2,Segment2_sub1,657040,790378,Last 52
+Channel1,Type1,Segment6,Segment6_sub1,38423011,33131199,FY 2024
+Channel1,Type1,Segment6,Segment6_sub2,55578346,56891695,FY 2024
+Channel1,Type1,Segment3,Segment3_sub1,171671862,175111276,FY 2024
+Channel1,Type1,Segment7,Segment7_sub1,198502189,192577964,FY 2024
+Channel1,Type1,Segment8,Segment8_sub5,520054,480626,FY 2024
+Channel1,Type1,Segment8,Segment8_sub6,16753464,14525945,FY 2024
+Channel1,Type2,Segment3,Segment3_sub1,0,127,FY 2024
+Channel1,Type2,Segment1,Segment1_sub1,150,1460,FY 2024
+Channel1,Type2,Segment5,Segment5_sub1,0,3719,FY 2024
+Channel1,Type2,Segment2,Segment2_sub1,0,127,FY 2024
+Channel1,Type1,Segment4,Segment4_sub1,28759188,31823427,FY 2024
+Channel1,Type1,Segment1,Segment1_sub1,69099820,71527953,FY 2024
+Channel1,Type1,Segment5,Segment5_sub1,7673693,7709394,FY 2024
+Channel1,Type1,Segment2,Segment2_sub1,9006339,10331190,FY 2024
+Channel1,Type1,Segment4,Segment4_sub1,94451916,91950132,FY 2024
+Channel1,Type1,Segment1,Segment1_sub1,65189149,65942324,FY 2024
+Channel1,Type1,Segment5,Segment5_sub1,114575265,118494215,FY 2024
+Channel1,Type1,Segment2,Segment2_sub1,19234864,18799134,FY 2024
+Channel1,Type3,Segment4,Segment4_sub1,20061,12872,FY 2024
+Channel1,Type3,Segment1,Segment1_sub1,369576,203188,FY 2024
+Channel1,Type3,Segment5,Segment5_sub1,10700,9865,FY 2024
+Channel1,Type3,Segment2,Segment2_sub1,2801,2813,FY 2024
+Channel1,Type1,Segment4,Segment4_sub1,65943354,65566717,FY 2024
+Channel1,Type1,Segment1,Segment1_sub1,91916033,87553549,FY 2024
+Channel1,Type1,Segment5,Segment5_sub1,104163387,99082147,FY 2024
+Channel1,Type1,Segment2,Segment2_sub1,49950761,52575916,FY 2024
+Channel1,Type1,Segment6,Segment6_sub2,502799,630348,FY 2024
+Channel1,Type1,Segment3,Segment3_sub1,4806631,5537322,FY 2024
+Channel1,Type1,Segment4,Segment4_sub1,14460115,15184517,FY 2024
+Channel1,Type1,Segment1,Segment1_sub1,41189776,42946224,FY 2024
+Channel1,Type1,Segment5,Segment5_sub1,6966588,7328907,FY 2024
+Channel1,Type1,Segment2,Segment2_sub1,15943746,16787163,FY 2024
+Channel1,Type1,Segment4,Segment4_sub1,6464679,7807351,FY 2024
+Channel1,Type1,Segment1,Segment1_sub1,12135379,12492453,FY 2024
+Channel1,Type1,Segment5,Segment5_sub1,756290,791188,FY 2024
+Channel1,Type1,Segment2,Segment2_sub1,706215,752003,FY 2024
+Channel3,Type1,Segment6,Segment6_sub1,3975126,3001254,YTD
+Channel3,Type1,Segment6,Segment6_sub2,2860557,2756076,YTD
+Channel3,Type1,Segment3,Segment3_sub1,7549865,6752086,YTD
+Channel3,Type1,Segment7,Segment7_sub1,16126285,12771359,YTD
+Channel3,Type1,Segment7,Segment7_sub1,66829,68403,YTD
+Channel3,Type2,Segment6,Segment6_sub1,112534,104890,YTD
+Channel3,Type2,Segment6,Segment6_sub2,189702,138924,YTD
+Channel3,Type2,Segment3,Segment3_sub1,872665,954285,YTD
+Channel3,Type2,Segment4,Segment4_sub1,1016615,585827,YTD
+Channel3,Type2,Segment1,Segment1_sub1,2499612,1335270,YTD
+Channel3,Type2,Segment5,Segment5_sub1,483680,331587,YTD
+Channel3,Type2,Segment2,Segment2_sub1,32043,9148,YTD
+Channel3,Type1,Segment3,Segment3_sub1,1916,7616,YTD
+Channel3,Type1,Segment4,Segment4_sub1,60790,52258,YTD
+Channel3,Type1,Segment1,Segment1_sub1,265799,214693,YTD
+Channel3,Type1,Segment5,Segment5_sub1,91385,56738,YTD
+Channel3,Type1,Segment2,Segment2_sub1,11939,8498,YTD
+Channel3,Type1,Segment4,Segment4_sub1,1761579,1955565,YTD
+Channel3,Type1,Segment1,Segment1_sub1,1478642,1374388,YTD
+Channel3,Type1,Segment5,Segment5_sub1,5089138,4785173,YTD
+Channel3,Type1,Segment2,Segment2_sub1,805857,681326,YTD
+Channel3,Type3,Segment4,Segment4_sub1,7978232,7908087,YTD
+Channel3,Type3,Segment1,Segment1_sub1,12013511,12231581,YTD
+Channel3,Type3,Segment5,Segment5_sub1,2638429,2896739,YTD
+Channel3,Type3,Segment2,Segment2_sub1,1139974,949621,YTD
+Channel3,Type1,Segment4,Segment4_sub1,4006168,3727133,YTD
+Channel3,Type1,Segment1,Segment1_sub1,4373022,4364217,YTD
+Channel3,Type1,Segment5,Segment5_sub1,7312326,6277718,YTD
+Channel3,Type1,Segment2,Segment2_sub1,2560018,2105706,YTD
+Channel3,Type1,Segment6,Segment6_sub2,50412,58359,YTD
+Channel3,Type1,Segment3,Segment3_sub1,6289249,5196021,YTD
+Channel3,Type1,Segment4,Segment4_sub1,1860013,1645132,YTD
+Channel3,Type1,Segment1,Segment1_sub1,3810778,4226215,YTD
+Channel3,Type1,Segment5,Segment5_sub1,1398712,1254378,YTD
+Channel3,Type1,Segment2,Segment2_sub1,859545,972779,YTD
+Channel3,Type1,Segment4,Segment4_sub1,72665,35293,YTD
+Channel3,Type1,Segment1,Segment1_sub1,39823,172770,YTD
+Channel3,Type1,Segment5,Segment5_sub1,41264,28646,YTD
+Channel3,Type1,Segment3,Segment3_sub1,2690669,2780206,YTD
+Channel3,Type1,Segment4,Segment4_sub1,235399,68263,YTD
+Channel3,Type1,Segment1,Segment1_sub1,103403,39200,YTD
+Channel3,Type1,Segment5,Segment5_sub1,47770,10646,YTD
+Channel3,Type1,Segment2,Segment2_sub1,28663,2677,YTD
+Channel3,Type1,Segment6,Segment6_sub1,2536315,1938024,Last 12
+Channel3,Type1,Segment6,Segment6_sub2,1723461,1721011,Last 12
+Channel3,Type1,Segment3,Segment3_sub1,4507151,4190246,Last 12
+Channel3,Type1,Segment7,Segment7_sub1,9930677,7975743,Last 12
+Channel3,Type1,Segment7,Segment7_sub1,43507,40999,Last 12
+Channel3,Type2,Segment6,Segment6_sub1,65642,68438,Last 12
+Channel3,Type2,Segment6,Segment6_sub2,106316,88421,Last 12
+Channel3,Type2,Segment3,Segment3_sub1,527649,569796,Last 12
+Channel3,Type2,Segment4,Segment4_sub1,638890,368615,Last 12
+Channel3,Type2,Segment1,Segment1_sub1,1577569,845740,Last 12
+Channel3,Type2,Segment5,Segment5_sub1,309285,218433,Last 12
+Channel3,Type2,Segment2,Segment2_sub1,20472,5876,Last 12
+Channel3,Type1,Segment3,Segment3_sub1,752,4815,Last 12
+Channel3,Type1,Segment4,Segment4_sub1,37009,39310,Last 12
+Channel3,Type1,Segment1,Segment1_sub1,187438,135185,Last 12
+Channel3,Type1,Segment5,Segment5_sub1,59476,36831,Last 12
+Channel3,Type1,Segment2,Segment2_sub1,9176,6016,Last 12
+Channel3,Type1,Segment4,Segment4_sub1,1030653,1165010,Last 12
+Channel3,Type1,Segment1,Segment1_sub1,879502,834161,Last 12
+Channel3,Type1,Segment5,Segment5_sub1,3097143,2916205,Last 12
+Channel3,Type1,Segment2,Segment2_sub1,505887,425881,Last 12
+Channel3,Type3,Segment4,Segment4_sub1,4933918,4898244,Last 12
+Channel3,Type3,Segment1,Segment1_sub1,7591157,7457577,Last 12
+Channel3,Type3,Segment5,Segment5_sub1,1685977,1872525,Last 12
+Channel3,Type3,Segment2,Segment2_sub1,694100,608516,Last 12
+Channel3,Type1,Segment4,Segment4_sub1,2419278,2340498,Last 12
+Channel3,Type1,Segment1,Segment1_sub1,2521255,2709486,Last 12
+Channel3,Type1,Segment5,Segment5_sub1,4295901,3850441,Last 12
+Channel3,Type1,Segment2,Segment2_sub1,1563765,1325751,Last 12
+Channel3,Type1,Segment6,Segment6_sub2,27449,39719,Last 12
+Channel3,Type1,Segment3,Segment3_sub1,3910624,3313568,Last 12
+Channel3,Type1,Segment4,Segment4_sub1,1151532,1044276,Last 12
+Channel3,Type1,Segment1,Segment1_sub1,2318610,2621501,Last 12
+Channel3,Type1,Segment5,Segment5_sub1,841385,801208,Last 12
+Channel3,Type1,Segment2,Segment2_sub1,519267,616814,Last 12
+Channel3,Type1,Segment4,Segment4_sub1,48293,29018,Last 12
+Channel3,Type1,Segment1,Segment1_sub1,22203,102795,Last 12
+Channel3,Type1,Segment5,Segment5_sub1,28676,25842,Last 12
+Channel3,Type1,Segment3,Segment3_sub1,1608471,1714972,Last 12
+Channel3,Type1,Segment4,Segment4_sub1,156803,49733,Last 12
+Channel3,Type1,Segment1,Segment1_sub1,67754,27287,Last 12
+Channel3,Type1,Segment5,Segment5_sub1,32133,6408,Last 12
+Channel3,Type1,Segment2,Segment2_sub1,18053,2254,Last 12
+Channel3,Type1,Segment6,Segment6_sub1,9517106,6316396,Last 52
+Channel3,Type1,Segment6,Segment6_sub2,7535746,6923340,Last 52
+Channel3,Type1,Segment3,Segment3_sub1,19041170,15674983,Last 52
+Channel3,Type1,Segment7,Segment7_sub1,38830445,31483114,Last 52
+Channel3,Type1,Segment7,Segment7_sub1,164882,153859,Last 52
+Channel3,Type2,Segment6,Segment6_sub1,292573,215203,Last 52
+Channel3,Type2,Segment6,Segment6_sub2,476324,305790,Last 52
+Channel3,Type2,Segment3,Segment3_sub1,2329993,2292998,Last 52
+Channel3,Type2,Segment4,Segment4_sub1,2277609,1077291,Last 52
+Channel3,Type2,Segment1,Segment1_sub1,5395274,2487941,Last 52
+Channel3,Type2,Segment5,Segment5_sub1,1190896,807065,Last 52
+Channel3,Type2,Segment2,Segment2_sub1,63138,39285,Last 52
+Channel3,Type1,Segment3,Segment3_sub1,17801,17029,Last 52
+Channel3,Type1,Segment4,Segment4_sub1,161763,144786,Last 52
+Channel3,Type1,Segment1,Segment1_sub1,579053,514785,Last 52
+Channel3,Type1,Segment5,Segment5_sub1,200102,114574,Last 52
+Channel3,Type1,Segment2,Segment2_sub1,37824,22970,Last 52
+Channel3,Type1,Segment4,Segment4_sub1,4312540,4693898,Last 52
+Channel3,Type1,Segment1,Segment1_sub1,3329050,3091204,Last 52
+Channel3,Type1,Segment5,Segment5_sub1,12680716,11922734,Last 52
+Channel3,Type1,Segment2,Segment2_sub1,1817661,1636960,Last 52
+Channel3,Type3,Segment4,Segment4_sub1,21354862,19796015,Last 52
+Channel3,Type3,Segment1,Segment1_sub1,30113996,28377671,Last 52
+Channel3,Type3,Segment5,Segment5_sub1,6871462,6718670,Last 52
+Channel3,Type3,Segment2,Segment2_sub1,2825071,2271320,Last 52
+Channel3,Type1,Segment4,Segment4_sub1,9809808,8613650,Last 52
+Channel3,Type1,Segment1,Segment1_sub1,10964480,10625251,Last 52
+Channel3,Type1,Segment5,Segment5_sub1,18072456,14976909,Last 52
+Channel3,Type1,Segment2,Segment2_sub1,6297278,4863690,Last 52
+Channel3,Type1,Segment6,Segment6_sub2,135214,121221,Last 52
+Channel3,Type1,Segment3,Segment3_sub1,15973375,12774876,Last 52
+Channel3,Type1,Segment4,Segment4_sub1,4549458,3605250,Last 52
+Channel3,Type1,Segment1,Segment1_sub1,9458724,9842086,Last 52
+Channel3,Type1,Segment5,Segment5_sub1,3453200,2726663,Last 52
+Channel3,Type1,Segment2,Segment2_sub1,2296523,2049352,Last 52
+Channel3,Type1,Segment4,Segment4_sub1,213779,47484,Last 52
+Channel3,Type1,Segment1,Segment1_sub1,118288,494891,Last 52
+Channel3,Type1,Segment5,Segment5_sub1,86772,32693,Last 52
+Channel3,Type1,Segment3,Segment3_sub1,6749692,6665112,Last 52
+Channel3,Type1,Segment4,Segment4_sub1,480482,97661,Last 52
+Channel3,Type1,Segment1,Segment1_sub1,190594,70476,Last 52
+Channel3,Type1,Segment5,Segment5_sub1,88806,16693,Last 52
+Channel3,Type1,Segment2,Segment2_sub1,54283,5134,Last 52
+Channel3,Type1,Segment6,Segment6_sub1,8543233,4772026,FY 2024
+Channel3,Type1,Segment6,Segment6_sub2,7431264,6440393,FY 2024
+Channel3,Type1,Segment3,Segment3_sub1,18243390,14304474,FY 2024
+Channel3,Type1,Segment7,Segment7_sub1,35475518,31141134,FY 2024
+Channel3,Type1,Segment7,Segment7_sub1,166457,90713,FY 2024
+Channel3,Type2,Segment6,Segment6_sub1,284929,169633,FY 2024
+Channel3,Type2,Segment6,Segment6_sub2,425545,273235,FY 2024
+Channel3,Type2,Segment3,Segment3_sub1,2411614,2101893,FY 2024
+Channel3,Type2,Segment4,Segment4_sub1,1846821,735305,FY 2024
+Channel3,Type2,Segment1,Segment1_sub1,4230931,1782590,FY 2024
+Channel3,Type2,Segment5,Segment5_sub1,1038803,889976,FY 2024
+Channel3,Type2,Segment2,Segment2_sub1,40243,85596,FY 2024
+Channel3,Type1,Segment3,Segment3_sub1,23501,16299,FY 2024
+Channel3,Type1,Segment4,Segment4_sub1,153230,148771,FY 2024
+Channel3,Type1,Segment1,Segment1_sub1,527946,496115,FY 2024
+Channel3,Type1,Segment5,Segment5_sub1,165456,91791,FY 2024
+Channel3,Type1,Segment2,Segment2_sub1,34383,20156,FY 2024
+Channel3,Type1,Segment4,Segment4_sub1,4506525,4269135,FY 2024
+Channel3,Type1,Segment1,Segment1_sub1,3224796,2790754,FY 2024
+Channel3,Type1,Segment5,Segment5_sub1,12376751,11402171,FY 2024
+Channel3,Type1,Segment2,Segment2_sub1,1693129,1566646,FY 2024
+Channel3,Type3,Segment4,Segment4_sub1,21284716,17671987,FY 2024
+Channel3,Type3,Segment1,Segment1_sub1,30332066,25268301,FY 2024
+Channel3,Type3,Segment5,Segment5_sub1,7129772,5891438,FY 2024
+Channel3,Type3,Segment2,Segment2_sub1,2634719,2033143,FY 2024
+Channel3,Type1,Segment4,Segment4_sub1,9530773,7639599,FY 2024
+Channel3,Type1,Segment1,Segment1_sub1,10955674,9918962,FY 2024
+Channel3,Type1,Segment5,Segment5_sub1,17037848,13596970,FY 2024
+Channel3,Type1,Segment2,Segment2_sub1,5842966,4347661,FY 2024
+Channel3,Type1,Segment6,Segment6_sub1,0,632,FY 2024
+Channel3,Type1,Segment6,Segment6_sub2,143161,101921,FY 2024
+Channel3,Type1,Segment3,Segment3_sub1,14880147,11866371,FY 2024
+Channel3,Type1,Segment4,Segment4_sub1,4334576,3072529,FY 2024
+Channel3,Type1,Segment1,Segment1_sub1,9874161,9362898,FY 2024
+Channel3,Type1,Segment5,Segment5_sub1,3308865,2337937,FY 2024
+Channel3,Type1,Segment2,Segment2_sub1,2409757,1706460,FY 2024
+Channel3,Type1,Segment4,Segment4_sub1,176407,28165,FY 2024
+Channel3,Type1,Segment1,Segment1_sub1,251235,484199,FY 2024
+Channel3,Type1,Segment5,Segment5_sub1,74154,30797,FY 2024
+Channel3,Type1,Segment2,Segment2_sub1,0,193,FY 2024
+Channel3,Type1,Segment3,Segment3_sub1,6839229,6311160,FY 2024
+Channel3,Type1,Segment4,Segment4_sub1,313346,41793,FY 2024
+Channel3,Type1,Segment1,Segment1_sub1,126390,55124,FY 2024
+Channel3,Type1,Segment5,Segment5_sub1,51682,8816,FY 2024
+Channel3,Type1,Segment2,Segment2_sub1,28296,3118,FY 2024
+Channel2,Type1,Segment8,Segment8_sub1,176529,163833,YTD
+Channel2,Type1,Segment8,Segment8_sub1,81316,82773,Last 12
+Channel2,Type1,Segment8,Segment8_sub1,625701,526042,Last 52
+Channel2,Type1,Segment8,Segment8_sub1,707837,563437,FY 2024
+Channel2,Type1,Segment6,Segment6_sub2,4264738,4185630,YTD
+Channel2,Type1,Segment6,Segment6_sub2,2600308,2539094,Last 12
+Channel2,Type1,Segment6,Segment6_sub2,10138128,9995122,Last 52
+Channel2,Type1,Segment6,Segment6_sub2,9770624,9421498,FY 2024
+Channel2,Type1,Segment8,Segment8_sub2,567414,599505,YTD
+Channel2,Type1,Segment8,Segment8_sub2,299281,367518,Last 12
+Channel2,Type1,Segment8,Segment8_sub2,1625986,1361357,Last 52
+Channel2,Type1,Segment8,Segment8_sub2,1686949,1220904,FY 2024
+Channel2,Type1,Segment3,Segment3_sub1,2762276,3715654,YTD
+Channel2,Type1,Segment3,Segment3_sub1,1613126,2142190,Last 12
+Channel2,Type1,Segment3,Segment3_sub1,7205371,9528977,Last 52
+Channel2,Type1,Segment3,Segment3_sub1,8020079,9934534,FY 2024
+Channel2,Type1,Segment8,Segment8_sub3,111785,133505,YTD
+Channel2,Type1,Segment8,Segment8_sub3,63522,77684,Last 12
+Channel2,Type1,Segment8,Segment8_sub3,295674,328940,Last 52
+Channel2,Type1,Segment8,Segment8_sub3,311657,328550,FY 2024
+Channel2,Type1,Segment8,Segment8_sub4,2813061,2803215,YTD
+Channel2,Type1,Segment8,Segment8_sub4,1531019,1568442,Last 12
+Channel2,Type1,Segment8,Segment8_sub4,7974815,7610593,Last 52
+Channel2,Type1,Segment8,Segment8_sub4,8367754,7756740,FY 2024
+Channel2,Type1,Segment7,Segment7_sub1,11137964,10902644,YTD
+Channel2,Type1,Segment7,Segment7_sub1,6647598,6540738,Last 12
+Channel2,Type1,Segment7,Segment7_sub1,28141440,26141919,Last 52
+Channel2,Type1,Segment7,Segment7_sub1,27391813,24625493,FY 2024
+Channel2,Type1,Segment7,Segment7_sub1,611832,589818,YTD
+Channel2,Type1,Segment7,Segment7_sub1,371436,288966,Last 12
+Channel2,Type1,Segment7,Segment7_sub1,1575788,1738954,Last 52
+Channel2,Type1,Segment7,Segment7_sub1,1528384,1897935,FY 2024
+Channel2,Type2,Segment8,Segment8_sub1,766593,719201,YTD
+Channel2,Type2,Segment8,Segment8_sub1,368247,346540,Last 12
+Channel2,Type2,Segment8,Segment8_sub1,2504701,2382640,Last 52
+Channel2,Type2,Segment8,Segment8_sub1,2917903,2635916,FY 2024
+Channel2,Type2,Segment6,Segment6_sub2,73083,10250,YTD
+Channel2,Type2,Segment6,Segment6_sub2,44906,10250,Last 12
+Channel2,Type2,Segment6,Segment6_sub2,182063,10249,Last 52
+Channel2,Type2,Segment6,Segment6_sub2,116004,-4,FY 2024
+Channel2,Type2,Segment8,Segment8_sub2,446980,421382,YTD
+Channel2,Type2,Segment8,Segment8_sub2,293604,271491,Last 12
+Channel2,Type2,Segment8,Segment8_sub2,937092,909765,Last 52
+Channel2,Type2,Segment8,Segment8_sub2,863009,800970,FY 2024
+Channel2,Type2,Segment3,Segment3_sub1,554661,710364,YTD
+Channel2,Type2,Segment3,Segment3_sub1,327055,424784,Last 12
+Channel2,Type2,Segment3,Segment3_sub1,1585786,1844149,Last 52
+Channel2,Type2,Segment3,Segment3_sub1,1712871,1983293,FY 2024
+Channel2,Type2,Segment4,Segment4_sub1,5824468,5729259,YTD
+Channel2,Type2,Segment4,Segment4_sub1,3454592,3377806,Last 12
+Channel2,Type2,Segment4,Segment4_sub1,14312038,14123488,Last 52
+Channel2,Type2,Segment4,Segment4_sub1,13941785,13650846,FY 2024
+Channel2,Type2,Segment1,Segment1_sub1,16984771,17386290,YTD
+Channel2,Type2,Segment1,Segment1_sub1,10014918,10243513,Last 12
+Channel2,Type2,Segment1,Segment1_sub1,41307126,42920465,Last 52
+Channel2,Type2,Segment1,Segment1_sub1,40993254,42706251,FY 2024
+Channel2,Type2,Segment8,Segment8_sub4,0,15152,YTD
+Channel2,Type2,Segment8,Segment8_sub4,0,6000,Last 12
+Channel2,Type2,Segment8,Segment8_sub4,665,64963,Last 52
+Channel2,Type2,Segment8,Segment8_sub4,15726,51614,FY 2024
+Channel2,Type2,Segment5,Segment5_sub1,9289520,8721411,YTD
+Channel2,Type2,Segment5,Segment5_sub1,5634779,5295170,Last 12
+Channel2,Type2,Segment5,Segment5_sub1,21247040,19500640,Last 52
+Channel2,Type2,Segment5,Segment5_sub1,19719449,17674926,FY 2024
+Channel2,Type2,Segment2,Segment2_sub1,2193521,2312082,YTD
+Channel2,Type2,Segment2,Segment2_sub1,1314379,1380755,Last 12
+Channel2,Type2,Segment2,Segment2_sub1,5257618,5704412,Last 52
+Channel2,Type2,Segment2,Segment2_sub1,5290455,5780037,FY 2024
+Channel2,Type1,Segment1,Segment1_sub1,47118,0,YTD
+Channel2,Type1,Segment1,Segment1_sub1,18162,0,Last 12
+Channel2,Type1,Segment1,Segment1_sub1,71907,0,Last 52
+Channel2,Type1,Segment1,Segment1_sub1,24790,0,FY 2024
+Channel2,Type1,Segment5,Segment5_sub1,179468,131300,YTD
+Channel2,Type1,Segment5,Segment5_sub1,97873,79849,Last 12
+Channel2,Type1,Segment5,Segment5_sub1,402940,235313,Last 52
+Channel2,Type1,Segment5,Segment5_sub1,348337,106267,FY 2024
+Channel2,Type1,Segment2,Segment2_sub1,58384,11673,YTD
+Channel2,Type1,Segment2,Segment2_sub1,45999,11673,Last 12
+Channel2,Type1,Segment2,Segment2_sub1,137308,11673,Last 52
+Channel2,Type1,Segment2,Segment2_sub1,88880,-4,FY 2024
+Channel2,Type1,Segment4,Segment4_sub1,724873,707079,YTD
+Channel2,Type1,Segment4,Segment4_sub1,422337,413935,Last 12
+Channel2,Type1,Segment4,Segment4_sub1,1827425,1730171,Last 52
+Channel2,Type1,Segment4,Segment4_sub1,1775601,1689949,FY 2024
+Channel2,Type1,Segment1,Segment1_sub1,528329,618735,YTD
+Channel2,Type1,Segment1,Segment1_sub1,308654,348164,Last 12
+Channel2,Type1,Segment1,Segment1_sub1,1307645,1537018,Last 52
+Channel2,Type1,Segment1,Segment1_sub1,1372778,1531799,FY 2024
+Channel2,Type1,Segment5,Segment5_sub1,1985439,2170685,YTD
+Channel2,Type1,Segment5,Segment5_sub1,1159482,1281603,Last 12
+Channel2,Type1,Segment5,Segment5_sub1,4970576,5267101,Last 52
+Channel2,Type1,Segment5,Segment5_sub1,5058519,5185221,FY 2024
+Channel2,Type1,Segment2,Segment2_sub1,257530,263694,YTD
+Channel2,Type1,Segment2,Segment2_sub1,152995,154765,Last 12
+Channel2,Type1,Segment2,Segment2_sub1,623442,665413,Last 52
+Channel2,Type1,Segment2,Segment2_sub1,616750,703224,FY 2024
+Channel2,Type3,Segment3,Segment3_sub1,325311,264060,YTD
+Channel2,Type3,Segment3,Segment3_sub1,196634,158361,Last 12
+Channel2,Type3,Segment3,Segment3_sub1,677900,673203,Last 52
+Channel2,Type3,Segment3,Segment3_sub1,605972,744730,FY 2024
+Channel2,Type3,Segment4,Segment4_sub1,15116496,14637334,YTD
+Channel2,Type3,Segment4,Segment4_sub1,8813393,8749966,Last 12
+Channel2,Type3,Segment4,Segment4_sub1,36843949,34901754,Last 52
+Channel2,Type3,Segment4,Segment4_sub1,35711765,33093809,FY 2024
+Channel2,Type3,Segment1,Segment1_sub1,31884901,31511242,YTD
+Channel2,Type3,Segment1,Segment1_sub1,18389084,18853201,Last 12
+Channel2,Type3,Segment1,Segment1_sub1,77474065,76829995,Last 52
+Channel2,Type3,Segment1,Segment1_sub1,75706525,75663538,FY 2024
+Channel2,Type3,Segment5,Segment5_sub1,9909248,8421435,YTD
+Channel2,Type3,Segment5,Segment5_sub1,5895771,5088410,Last 12
+Channel2,Type3,Segment5,Segment5_sub1,23443636,19792273,Last 52
+Channel2,Type3,Segment5,Segment5_sub1,21564841,18799186,FY 2024
+Channel2,Type3,Segment2,Segment2_sub1,3602829,3591760,YTD
+Channel2,Type3,Segment2,Segment2_sub1,2086660,2158511,Last 12
+Channel2,Type3,Segment2,Segment2_sub1,8801954,8670457,Last 52
+Channel2,Type3,Segment2,Segment2_sub1,8623905,8325433,FY 2024
+Channel2,Type1,Segment4,Segment4_sub1,1528041,1528029,YTD
+Channel2,Type1,Segment4,Segment4_sub1,885464,890096,Last 12
+Channel2,Type1,Segment4,Segment4_sub1,3725151,3700385,Last 52
+Channel2,Type1,Segment4,Segment4_sub1,3656588,3553890,FY 2024
+Channel2,Type1,Segment1,Segment1_sub1,1661627,1523101,YTD
+Channel2,Type1,Segment1,Segment1_sub1,955629,881715,Last 12
+Channel2,Type1,Segment1,Segment1_sub1,3882870,3583365,Last 52
+Channel2,Type1,Segment1,Segment1_sub1,3679309,3334161,FY 2024
+Channel2,Type1,Segment5,Segment5_sub1,4363985,4206546,YTD
+Channel2,Type1,Segment5,Segment5_sub1,2578482,2511407,Last 12
+Channel2,Type1,Segment5,Segment5_sub1,10494522,10087535,Last 52
+Channel2,Type1,Segment5,Segment5_sub1,10145829,9522689,FY 2024
+Channel2,Type1,Segment2,Segment2_sub1,562646,593563,YTD
+Channel2,Type1,Segment2,Segment2_sub1,324663,337600,Last 12
+Channel2,Type1,Segment2,Segment2_sub1,1426388,1559626,Last 52
+Channel2,Type1,Segment2,Segment2_sub1,1432457,1601229,FY 2024
+Channel2,Type1,Segment8,Segment8_sub1,127954,152640,YTD
+Channel2,Type1,Segment8,Segment8_sub1,73107,92443,Last 12
+Channel2,Type1,Segment8,Segment8_sub1,329238,370915,Last 52
+Channel2,Type1,Segment8,Segment8_sub1,345097,362978,FY 2024
+Channel2,Type1,Segment6,Segment6_sub2,574844,539822,YTD
+Channel2,Type1,Segment6,Segment6_sub2,345163,329178,Last 12
+Channel2,Type1,Segment6,Segment6_sub2,1443801,1319235,Last 52
+Channel2,Type1,Segment6,Segment6_sub2,1390376,1219674,FY 2024
+Channel2,Type1,Segment8,Segment8_sub2,56677,55267,YTD
+Channel2,Type1,Segment8,Segment8_sub2,39292,34967,Last 12
+Channel2,Type1,Segment8,Segment8_sub2,100311,136765,Last 52
+Channel2,Type1,Segment8,Segment8_sub2,85436,134684,FY 2024
+Channel2,Type1,Segment3,Segment3_sub1,3567872,4294988,YTD
+Channel2,Type1,Segment3,Segment3_sub1,2205961,2488381,Last 12
+Channel2,Type1,Segment3,Segment3_sub1,9887648,11347971,Last 52
+Channel2,Type1,Segment3,Segment3_sub1,10426760,11728896,FY 2024
+Channel2,Type1,Segment4,Segment4_sub1,1387051,1608924,YTD
+Channel2,Type1,Segment4,Segment4_sub1,801939,937488,Last 12
+Channel2,Type1,Segment4,Segment4_sub1,3490994,4048687,Last 52
+Channel2,Type1,Segment4,Segment4_sub1,3644578,4084851,FY 2024
+Channel2,Type1,Segment1,Segment1_sub1,3262362,3874346,YTD
+Channel2,Type1,Segment1,Segment1_sub1,1852931,2262513,Last 12
+Channel2,Type1,Segment1,Segment1_sub1,8479365,9679134,Last 52
+Channel2,Type1,Segment1,Segment1_sub1,8928164,9806308,FY 2024
+Channel2,Type1,Segment5,Segment5_sub1,1213268,1422914,YTD
+Channel2,Type1,Segment5,Segment5_sub1,697726,816444,Last 12
+Channel2,Type1,Segment5,Segment5_sub1,3131175,3766324,Last 52
+Channel2,Type1,Segment5,Segment5_sub1,3369529,3937706,FY 2024
+Channel2,Type1,Segment2,Segment2_sub1,685535,756279,YTD
+Channel2,Type1,Segment2,Segment2_sub1,399241,434765,Last 12
+Channel2,Type1,Segment2,Segment2_sub1,1710814,1916001,Last 52
+Channel2,Type1,Segment2,Segment2_sub1,1749242,1980669,FY 2024
+Channel2,Type1,Segment4,Segment4_sub1,0,25332,YTD
+Channel2,Type1,Segment4,Segment4_sub1,0,10167,Last 12
+Channel2,Type1,Segment4,Segment4_sub1,472,85043,Last 52
+Channel2,Type1,Segment4,Segment4_sub1,25719,108543,FY 2024
+Channel2,Type1,Segment3,Segment3_sub1,1342079,1448836,YTD
+Channel2,Type1,Segment3,Segment3_sub1,796464,831667,Last 12
+Channel2,Type1,Segment3,Segment3_sub1,3475694,3585793,Last 52
+Channel2,Type1,Segment3,Segment3_sub1,3507363,3607317,FY 2024
+Channel2,Type1,Segment6,Segment6_sub2,232852,188977,YTD
+Channel2,Type1,Segment6,Segment6_sub2,142816,100672,Last 12
+Channel2,Type1,Segment6,Segment6_sub2,635011,709651,Last 52
+Channel2,Type1,Segment6,Segment6_sub2,604929,735835,FY 2024
+Channel2,Type1,Segment3,Segment3_sub1,9248666,8561040,YTD
+Channel2,Type1,Segment3,Segment3_sub1,5513434,4950567,Last 12
+Channel2,Type1,Segment3,Segment3_sub1,23625136,23452076,Last 52
+Channel2,Type1,Segment3,Segment3_sub1,22528010,23197025,FY 2024
+Channel2,Type1,Segment4,Segment4_sub1,1888204,2114369,YTD
+Channel2,Type1,Segment4,Segment4_sub1,1072082,1233996,Last 12
+Channel2,Type1,Segment4,Segment4_sub1,4848976,5279785,Last 52
+Channel2,Type1,Segment4,Segment4_sub1,4982920,5280186,FY 2024
+Channel2,Type1,Segment1,Segment1_sub1,9186529,9675671,YTD
+Channel2,Type1,Segment1,Segment1_sub1,5176029,5662483,Last 12
+Channel2,Type1,Segment1,Segment1_sub1,22837178,23965607,Last 52
+Channel2,Type1,Segment1,Segment1_sub1,22883372,23896313,FY 2024
+Channel2,Type1,Segment7,Segment7_sub1,4719385,4581140,YTD
+Channel2,Type1,Segment7,Segment7_sub1,2815074,2765893,Last 12
+Channel2,Type1,Segment7,Segment7_sub1,11838182,11380349,Last 52
+Channel2,Type1,Segment7,Segment7_sub1,11512870,10926335,FY 2024
+Channel2,Type1,Segment8,Segment8_sub6,896366,741009,YTD
+Channel2,Type1,Segment8,Segment8_sub6,641843,551121,Last 12
+Channel2,Type1,Segment8,Segment8_sub6,1218185,967004,Last 52
+Channel2,Type1,Segment8,Segment8_sub6,469549,366091,FY 2024
+Channel2,Type1,Segment5,Segment5_sub1,1865861,1592541,YTD
+Channel2,Type1,Segment5,Segment5_sub1,1083373,963626,Last 12
+Channel2,Type1,Segment5,Segment5_sub1,4416460,3700156,Last 52
+Channel2,Type1,Segment5,Segment5_sub1,4069255,3082715,FY 2024
+Channel2,Type1,Segment2,Segment2_sub1,921988,981112,YTD
+Channel2,Type1,Segment2,Segment2_sub1,539007,586092,Last 12
+Channel2,Type1,Segment2,Segment2_sub1,2436790,2671115,Last 52
+Channel2,Type1,Segment2,Segment2_sub1,2448637,2828585,FY 2024
